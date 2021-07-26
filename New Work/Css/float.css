@@ -1,0 +1,67 @@
+body{
+    background-color: deepskyblue;
+    width: 75%;
+    margin-left: 7%;
+    margin-top: 10%;  
+}
+
+
+.option2 {
+    
+    height: 340px;
+    
+    padding-top: 40px;
+    width: 33.3%;
+    float: right;
+    
+    background-image: url(../image/IMG-20210708-WA0000.jpg);
+    background-size: cover;
+    
+}
+
+
+
+
+.option4 {
+    background-color:darkslateblue ;
+    height: 340px;
+    text-align: center;
+    padding-top: 40px;
+    width: 33.3%;
+    margin: 0 auto;
+    
+    
+}
+
+.head1 {
+
+    font-size: 25px;
+    color: white;
+}
+
+.head2 {
+
+    font-size: small;
+    color:lightgray;
+}
+
+.span1 {
+    color: violet;
+}
+
+.first {
+    /* border: 2px solid white; */
+    display: flex;
+    margin-top: 23%;
+    color: white;
+
+
+}
+
+.bottomword {
+    padding-top: 10%;
+    margin-right: 0px;
+}
+
+
+
